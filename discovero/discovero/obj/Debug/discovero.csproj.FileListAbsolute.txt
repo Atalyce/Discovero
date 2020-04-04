@@ -1,0 +1,10 @@
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\bin\Debug\discovero.exe.config
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\bin\Debug\discovero.exe
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\bin\Debug\discovero.pdb
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.csprojResolveAssemblyReference.cache
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.LoginForm.resources
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.Properties.Resources.resources
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.csproj.GenerateResource.Cache
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.exe
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.pdb
+F:\BINUS\Semester 4\COMP6225 - Object-Oriented Database - BF01 - 1820\Project (LAB)\discovero\discovero\obj\Debug\discovero.StaffForm.resources
